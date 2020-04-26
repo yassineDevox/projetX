@@ -15,3 +15,4 @@ others tasks:
     ✔ initialiser projetX avec git (git init) @done(20-04-26 16:29)
     ✔ consulter l'etat de notre repo (git status) @started(20-04-26 16:31) @done(20-04-26 16:37) @lasted(6m10s)
     ✔ ajouter les changement deja detecter (git add .) @started(20-04-26 16:42) @done(20-04-26 16:42) @lasted(43s)
+    ✔ valider nos changement et creer notre version avec (git commit -m 'msg') @started(20-04-26 17:01) @done(20-04-26 17:01) @lasted(31s)
