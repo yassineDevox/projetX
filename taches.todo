@@ -1,0 +1,17 @@
+alt --> s 7da la tache ki3ni je viens de commencer la tache 
+alt --> d hna j'ai bien finis la tache nice 
+
+
+auth-system:
+    ✔ create design for signin page @started(20-04-26 16:08) @done(20-04-26 16:16) @lasted(8m50s)
+    [] create design for signup page @started(20-04-26 16:51)
+    [] create design for forgetpass page 
+    [] create design for resetpass page 
+
+shared design :
+    [] header creation design     
+
+others tasks:
+    ✔ initialiser projetX avec git (git init) @done(20-04-26 16:29)
+    ✔ consulter l'etat de notre repo (git status) @started(20-04-26 16:31) @done(20-04-26 16:37) @lasted(6m10s)
+    ✔ ajouter les changement deja detecter (git add .) @started(20-04-26 16:42) @done(20-04-26 16:42) @lasted(43s)
